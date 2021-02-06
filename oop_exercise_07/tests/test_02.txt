@@ -1,0 +1,8 @@
+save test
+load test
+add r 0 0 1 1
+add p 0 0 1 1
+add h 0 0 1 1
+save test
+load test
+print

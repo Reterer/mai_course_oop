@@ -1,0 +1,10 @@
+15 101
+5 101
+50 101
+2 101
+1 101
+1 101
+9 101
+lhs is bigger then rhs
+lhs is equal rhs
+lhs is less than rhs

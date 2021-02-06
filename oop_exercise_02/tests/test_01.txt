@@ -1,0 +1,9 @@
+toSec 10 30 15
+toMin 10 30 15
+fromSec 37815
+fromMin 630
+add 10 30 15  10 30 15
+sub 10 30 15  1 0 0
+timesMore 6 0 0  1 30 0
+addSec 10 30 15  3600
+cmp 10 30 15   11 15 15

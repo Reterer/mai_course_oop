@@ -1,0 +1,9 @@
+wrong_cmd
+toSec 10 60 15
+toSec 10 30 60
+toSec -5 0 0
+toSec awoeeggriuh
+toSec 10 30 5fewlfk
+fromSec -1246
+fromSec waflk33
+fromSec 123feeg

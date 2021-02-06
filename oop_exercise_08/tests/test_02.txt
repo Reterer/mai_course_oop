@@ -1,0 +1,6 @@
+add r 0 0 1 1
+add r 0 0 1 1
+add r 0 0 1 1
+add p 0 0  1 1
+add p 0 0  1 1
+add p 0 0  1 1

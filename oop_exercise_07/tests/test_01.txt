@@ -1,0 +1,21 @@
+add r 0 0 1 1
+add h 0 0 1 1
+add p 0 0 1 1
+print
+remove 2
+remove 0
+remove 0
+print
+undo
+print
+add r 0 0 2 2
+print
+undo
+undo
+undo
+print
+undo
+undo
+undo
+undo
+print

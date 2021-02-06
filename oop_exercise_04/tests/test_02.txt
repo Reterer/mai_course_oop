@@ -1,0 +1,6 @@
+set 0 0 0 1 1
+square
+set 0 0 0 1 0
+square
+set 0 1 1 2 3
+square

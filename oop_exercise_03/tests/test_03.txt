@@ -1,0 +1,7 @@
+kfekj
+add ekfj 1 2 1 2
+add r 0 0 0 0
+add r 1ikewjfw2 4iefj3 4edifj 0
+add r 1 1 0 0
+remove -1
+remove 1

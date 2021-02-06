@@ -1,0 +1,3 @@
+diff modulo
+zero modulo
+Нельзя делить на ноль

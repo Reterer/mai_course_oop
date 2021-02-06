@@ -1,0 +1,10 @@
+insert 0 0 0 1 1
+insert 1 0 0 2 2
+insert 0 0 0 3 3
+insert 1 0 0 4 4
+print
+erase 3
+erase 1
+erase 0
+erase 0
+print
